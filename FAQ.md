@@ -1,7 +1,10 @@
 # FAQ
 
 ## What is file-organizer?
-Organize files by type/date
+A CLI tool for file organizer.
 
 ## Dependencies?
 Python stdlib only.
+
+## Author
+Jose Zuma
