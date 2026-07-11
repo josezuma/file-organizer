@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is file-organizer?
-A CLI tool for file organizer.
+File Organizer
 
 ## Dependencies?
 Python stdlib only.
